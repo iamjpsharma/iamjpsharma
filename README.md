@@ -38,7 +38,7 @@ const jai = {
   <a href="https://www.reddit.com/user/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://www.instagram.com/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://fr.pinterest.com/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://www.linkedin.com/in/iamjpsharma-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://medium.com/@iamjpsharma"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://keybase.io/iamjpsharma"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
   <a href="https://steamcommunity.com/id/iamjpsharma"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
