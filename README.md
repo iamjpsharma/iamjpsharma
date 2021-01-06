@@ -33,12 +33,6 @@ const jai = {
 </div>
 
 
-### ⚡ Github Report Card:
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsanjaysoni&show_icons=true" alt="imsanjaysoni" /> </p>
-
-
 <p align="center">
   <a href="https://www.facebook.com/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/iamjpsharma"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
