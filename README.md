@@ -21,8 +21,8 @@ or <a href="mailto:sjaiprakash457@gmail.com"><b>email</b></a> me
 
 ```javascript
 const jai = {
-  code: [Java,xml, HTML, CSS, Python],
-  tools: [Android studio, VS Code, Aws, RHEL, Open Stack-Mitaka, Ansible, Docker],
+  code: [swift, Java,xml, HTML, CSS, Python],
+  tools: [Android studio, Xcode, VS Code, Aws, RHEL, Open Stack-Mitaka, Ansible, Docker],
 }
 ```
 
