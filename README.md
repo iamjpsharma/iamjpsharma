@@ -4,7 +4,7 @@
 
 <h2>  I'm jai! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Developer Executive at <a href="https://www.truworthwellness.com/">Truworth Wellness</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Developer Executive at <a href="https://www.tblocks.com/">Techblocks Consulting pvt ltd  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 
